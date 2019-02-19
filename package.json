@@ -1,0 +1,25 @@
+{
+  "name": "pl61-proxy",
+  "version": "1.0.0",
+  "description": "proxy server for scootify app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrr36-fec2/pl61-proxy.git"
+  },
+  "author": "pl61",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hrr36-fec2/pl61-proxy/issues"
+  },
+  "homepage": "https://github.com/hrr36-fec2/pl61-proxy#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
